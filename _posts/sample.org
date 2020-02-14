@@ -1,0 +1,12 @@
+#+begin_src plantuml :file ../assets/diagram.png
+
+A -> B
+#+end_src
+
+#+RESULTS:
+[[file:../assets/diagram.png]]
+
+Hello world
+
+#+RESULTS:
+[[file:../assets/diagram.png]]
